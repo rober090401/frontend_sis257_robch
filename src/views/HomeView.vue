@@ -8,9 +8,9 @@
       <div class="container d-flex justify-content-center align-items-center">
         <div class="row">
           <div class="col-12 mt-auto mb-5 text-center">
-            <small>Festava Live Presents</small>
+            <small>SIS257 Presenta</small>
 
-            <h1 class="text-white mb-5">Night Live 2023</h1>
+            <h1 class="text-white mb-5">Music 2025</h1>
 
             <a class="btn custom-btn smoothscroll" href="#section_2">Let's begin</a>
           </div>
